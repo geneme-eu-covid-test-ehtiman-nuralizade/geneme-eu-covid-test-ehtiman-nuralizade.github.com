@@ -9,8 +9,10 @@
 
 <body>
     <div>
-        <img src="test.jpg" alt="">
+        <img src="Ehtiman2-1.png" alt="">
+        <img src="Ehtiman2-2.png" alt="">
     </div>
+    
 </body>
 <style>
     html {
