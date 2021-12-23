@@ -9,8 +9,8 @@
 
 <body>
     <div>
-        <img src="Ehtiman2-1.png" alt="">
-        <img src="Ehtiman2-2.png" alt="">
+        <img src="Ehtiman2.jpg" alt="">
+        <img src="ehtiman3.jpg" alt="">
     </div>
     
 </body>
